@@ -49,6 +49,7 @@
 - [Matt Risinger](https://www.youtube.com/user/MattRisinger)
 - [Matthew Cremona](https://www.youtube.com/channel/UCDpL0v-Ifie7u05lbfO3zJQ)
 - [Steve Ramsey - Woodworking for Mere Mortals](https://www.youtube.com/user/stevinmarin)
+- [StewMac](https://www.youtube.com/user/stewartmacdonald)
 - [The Wood Whisperer](https://www.youtube.com/user/TheWoodWhisperer)
 - [This Old House](https://www.youtube.com/user/thisoldhouse)
 
@@ -67,6 +68,7 @@
   - [Extra History: Chronological Order (1700 CE - Present)](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5BNTUc1fwlXFuodoGo_u6TH)
 - [History Matters](https://www.youtube.com/channel/UC22BdTgxefuvUivrjesETjg)
 - [The History Guy](https://www.youtube.com/channel/UC4sEmXUuWIFlxRIFBRV6VXQ)
+- [VisualPolitik EN](https://www.youtube.com/channel/UCT3v6vL2H5HK4loLMc8pmCw)
 
 ### Linguistics
 - [Alliterative](https://www.youtube.com/user/Alliterative)
@@ -102,6 +104,7 @@
 - [The Circle of Fifths made clear](https://www.youtube.com/watch?v=_UxzDjU3-hM)
 - [Michael New](https://www.youtube.com/channel/UCNBiLBQrKrnvwcVRD5fS8aA)
 - [Paul Davids](https://www.youtube.com/channel/UC_Oa7Ph3v94om5OyxY1nPKg)
+- [Polyphonic](https://www.youtube.com/channel/UCXkNod_JcH7PleOjwK_8rYQ)
 - [Scott's Bass Lessons .com](https://scottsbasslessons.com/)
 - [Scott's Bass Lessons on YouTube](https://www.youtube.com/channel/UCWTj3vCqkQIsrTGSm4kM34g)
 - [Yale Music Theory Course](https://www.youtube.com/playlist?list=PL9LXrs9vCXK56qtyK4qcqwHrbf0em_81r)
@@ -113,6 +116,7 @@
 - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
 
 ### Science
+- [Kurzgesagt – In a Nutshell](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
 - [minutephysics](https://www.youtube.com/user/minutephysics)
 - [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g)
 - [Physics Girl](https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA)
@@ -120,6 +124,10 @@
 - [SciShow Kids](https://www.youtube.com/user/scishowkids)
 - [SciShow Psych](https://www.youtube.com/channel/UCUdettijNYvLAm4AixZv4RA)
 - [SciShow Space](https://www.youtube.com/user/scishowspace)
+
+### Skateboarding
+- [Braille Skateboarding](https://www.youtube.com/user/sprocker7)
+- [VHS Skate Tube](https://www.youtube.com/channel/UC6NVaVOokARfFe9EijxnBOA)
 
 ### Spaceflight
 - [Blue Origin](https://www.youtube.com/channel/UCVxTHEKKLxNjGcvVaZindlg)
