@@ -1,5 +1,6 @@
 # Educational Content
 
+- [Sources](#sources)
 - [Videos](#videos)
   - [Engineering](#engineering)
     - [Aviation](#aviation)
@@ -19,6 +20,23 @@
     - [Mathematics](#mathematics)
 
 ---
+
+## Sources
+- [Ars Technica](https://arstechnica.com/): nerd news
+- [Classics in the History of Psychology](https://psychclassics.yorku.ca/)
+- [Fred Smitha](http://www.fsmitha.com/): macrohistory, world history
+- [Google Books](https://books.google.com/): all the books, scanned
+- [Google Patents](https://patents.google.com/)
+- [Hyperhistory Online](https://www.hyperhistory.com/)
+- [Librivox](https://librivox.org/): free, public domain audiobooks
+- [Project Gutenberg](https://www.gutenberg.org/)
+- [ScienceDirect](https://www.sciencedirect.com/)
+- [TimeTree](http://www.timetree.org/): the timescale of life
+- [Wikidata](https://www.wikidata.org/): free knowledge base
+- [Wikipedia](https://en.wikipedia.org/): free-content encyclopedia
+- [Wikisource](https://wikisource.org/): free-content library
+- [Wikispecies](https://species.wikimedia.org/): directory of species
+- [Wikiversity](https://en.wikiversity.org/): free learning materials & activities
 
 ## Videos
 
