@@ -1,7 +1,9 @@
 # Educational Content
 - [Videos](#videos)
   - [Aviation](#aviation)
+  - [Cycling](#cycling)
   - [Data Science](#data-science)
+  - [Do It Yourself](#do-it-yourself)
   - [Engineering](#engineering)
   - [History](#history)
   - [Linguistics](#linguistics)
@@ -24,12 +26,31 @@
 - [Trent Palmer](https://www.youtube.com/user/boredentertainment88)
 - [The Finer Points](https://www.youtube.com/user/OnTheFlightLine)
 
+### Cycling
+- [Bike Magazine](https://www.youtube.com/user/TheBikemag)
+- [Bike Radar](https://www.youtube.com/user/bikeradar)
+- [GCN: Global Cycling Network](https://www.youtube.com/user/globalcyclingnetwork)
+- [GMBN: Global Mountain Bike Network](https://www.youtube.com/user/globalmtb)
+- [Pinkbike](https://www.youtube.com/channel/UC2GIHZpQiJy-8286f4lj_cg)
+- [Seth's Bike Hacks](https://www.youtube.com/channel/UCu8YylsPiu9XfaQC74Hr_Gw)
+
 ### Data Science
 - [365 Data Science](https://www.youtube.com/c/365DataScience)
 - [Corey Schafer: Pandas Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 - [freeCodeCamp.org: Data Science](https://www.youtube.com/playlist?list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1)
 - [Propagate Knowledge](https://www.youtube.com/channel/UC_7XEmvCsDO2Oo2iqDSqAdw)
 - [TEDx: Data Science](https://www.youtube.com/user/TEDxTalks/search?query=data+science)
+
+### Do It Yourself
+- [Anne of All Trades](https://www.youtube.com/user/allaboutanne18)
+- [April Wilkerson](https://www.youtube.com/user/AprilWilkersonDIY)
+- [Crafted Workshop](https://www.youtube.com/user/craftedmagazine)
+- [DIY Creators](https://www.youtube.com/channel/UChKlSK39lLg8eZHIX0iVzLA)
+- [Matt Risinger](https://www.youtube.com/user/MattRisinger)
+- [Matthew Cremona](https://www.youtube.com/channel/UCDpL0v-Ifie7u05lbfO3zJQ)
+- [Steve Ramsey - Woodworking for Mere Mortals](https://www.youtube.com/user/stevinmarin)
+- [The Wood Whisperer](https://www.youtube.com/user/TheWoodWhisperer)
+- [This Old House](https://www.youtube.com/user/thisoldhouse)
 
 ### Engineering
 - [Machine Thinking](https://www.youtube.com/channel/UCfsznjef2zGJnrCRQBXqo6Q)
@@ -96,6 +117,8 @@
 - [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g)
 - [Physics Girl](https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA)
 - [SciShow](https://www.youtube.com/user/scishow)
+- [SciShow Kids](https://www.youtube.com/user/scishowkids)
+- [SciShow Psych](https://www.youtube.com/channel/UCUdettijNYvLAm4AixZv4RA)
 - [SciShow Space](https://www.youtube.com/user/scishowspace)
 
 ### Spaceflight
