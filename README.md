@@ -11,6 +11,7 @@
   - [Music](#music)
   - [The Python Programming Language](#the-python-programming-language)
   - [Science](#science)
+  - [Skateboarding](#skateboarding)
   - [Spaceflight](#spaceflight)
 
 ## Videos
