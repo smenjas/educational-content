@@ -4,12 +4,14 @@
   - [Cycling](#cycling)
   - [Data Science](#data-science)
   - [Do It Yourself](#do-it-yourself)
+  - [Economics](#economics)
   - [Engineering](#engineering)
   - [History](#history)
   - [Linguistics](#linguistics)
   - [Mathematics](#mathematics)
   - [Music](#music)
-  - [The Python Programming Language](#the-python-programming-language)
+  - [Programming](#programming)
+    - [The Python Programming Language](#the-python-programming-language)
   - [Science](#science)
   - [Skateboarding](#skateboarding)
   - [Spaceflight](#spaceflight)
@@ -28,12 +30,16 @@
 - [The Finer Points](https://www.youtube.com/user/OnTheFlightLine)
 
 ### Cycling
+- [Backyard Trail Builds](https://www.youtube.com/channel/UC1iGpIm2g0D8lZvhtqetHmg)
 - [Bike Magazine](https://www.youtube.com/user/TheBikemag)
 - [Bike Radar](https://www.youtube.com/user/bikeradar)
+- [Danny MacAskill](https://www.youtube.com/channel/UC9kOkY1nYc0uADWRiRH64Rw)
 - [GCN: Global Cycling Network](https://www.youtube.com/user/globalcyclingnetwork)
 - [GMBN: Global Mountain Bike Network](https://www.youtube.com/user/globalmtb)
 - [Pinkbike](https://www.youtube.com/channel/UC2GIHZpQiJy-8286f4lj_cg)
 - [Seth's Bike Hacks](https://www.youtube.com/channel/UCu8YylsPiu9XfaQC74Hr_Gw)
+- [Skill with Phil](https://www.youtube.com/channel/UC0QuCui5pNF9k9fiNXkqn_w)
+- [TheUselessTrials](https://www.youtube.com/channel/UCEi9yL4vhQlLafWRsAgAr3w)
 
 ### Data Science
 - [365 Data Science](https://www.youtube.com/c/365DataScience)
@@ -43,6 +49,7 @@
 - [TEDx: Data Science](https://www.youtube.com/user/TEDxTalks/search?query=data+science)
 
 ### Do It Yourself
+- [A Concord Carpenter](https://www.youtube.com/channel/UCO1ZM4DsONdAWTQdX8o49QA)
 - [Anne of All Trades](https://www.youtube.com/user/allaboutanne18)
 - [April Wilkerson](https://www.youtube.com/user/AprilWilkersonDIY)
 - [Crafted Workshop](https://www.youtube.com/user/craftedmagazine)
@@ -54,16 +61,23 @@
 - [The Wood Whisperer](https://www.youtube.com/user/TheWoodWhisperer)
 - [This Old House](https://www.youtube.com/user/thisoldhouse)
 
+### Economics
+- [The Economist](https://www.youtube.com/channel/UC0p5jTq6Xx_DosDFxVXnWaQ)
+- [Two Cents](https://www.youtube.com/channel/UCL8w_A8p8P1HWI3k6PR5Z6w)
+
 ### Engineering
 - [Machine Thinking](https://www.youtube.com/channel/UCfsznjef2zGJnrCRQBXqo6Q)
+- [MIT CSAIL (Computer Science & Artificial Intelligence Laboratory)](https://www.youtube.com/channel/UCBpxspUNl1Th33XbugiHJzw)
 - [MIT Mechanical Engineering](https://www.youtube.com/channel/UCVXMaD9Gez-O1XKM8tuuzkA)
 - [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
 - [MIT School of Architecture & Planning](https://www.youtube.com/channel/UCgbvegDSq3uxWUrlllbvhLw)
 - [MIT School of Engineering](https://www.youtube.com/channel/UCx-Pk4CGqEb0FO5A6RyRNxA)
 - [Practical Engineering](https://www.youtube.com/channel/UCMOqf8ab-42UUQIdVoKwjlQ)
 - [Real Engineering](https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg)
+- [Tom Stanton](https://www.youtube.com/channel/UC67gfx2Fg7K2NSHqoENVgwA)
 
 ### History
+- [CGP Grey](https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w)
 - [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg)
   - [Extra History: Chronological Order (Pre-History - 1699 CE)](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5BuNVhOt8Ls82Cr20yo6Y_p)
   - [Extra History: Chronological Order (1700 CE - Present)](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5BNTUc1fwlXFuodoGo_u6TH)
@@ -100,35 +114,54 @@
 - [Euler's Identity](https://www.youtube.com/watch?v=sKtloBAuP74)
 
 ### Music
+- [Aimee Nolte Music](https://www.youtube.com/channel/UCZIB_p5AgVVdxgkYWHeUy-Q)
 - [Composerily - Music Theory The Basics](https://youtu.be/1oL4VPyBlYw)
 - [Learn music theory in half an hour](https://youtu.be/rgaTLrZGlk0)
 - [The Circle of Fifths made clear](https://www.youtube.com/watch?v=_UxzDjU3-hM)
 - [Michael New](https://www.youtube.com/channel/UCNBiLBQrKrnvwcVRD5fS8aA)
 - [Paul Davids](https://www.youtube.com/channel/UC_Oa7Ph3v94om5OyxY1nPKg)
 - [Polyphonic](https://www.youtube.com/channel/UCXkNod_JcH7PleOjwK_8rYQ)
+- [Pogo](https://www.youtube.com/channel/UCn-K7GIs62ENvdQe6ZZk9-w)
+- [Professor of Rock](https://www.youtube.com/channel/UCOwSCdQi9YRIVq6H2iX3qWg)
 - [Scott's Bass Lessons .com](https://scottsbasslessons.com/)
 - [Scott's Bass Lessons on YouTube](https://www.youtube.com/channel/UCWTj3vCqkQIsrTGSm4kM34g)
 - [Yale Music Theory Course](https://www.youtube.com/playlist?list=PL9LXrs9vCXK56qtyK4qcqwHrbf0em_81r)
 
-### The Python Programming Language
+### Programming
+- [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- [GoogleDeveloperDay](https://www.youtube.com/channel/UCwPuf8AroS2fpl83oqsfC6A)
+- [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
+- [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
+
+#### The Python Programming Language
+- [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 - [Socratica](https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q)
 - [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 - [The Mighty Dictionary](https://www.youtube.com/watch?v=C4Kc8xzcA68)
 - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
 
 ### Science
+- [iBiology](https://www.youtube.com/channel/UCsvqEZBO-kNmwuDBbKbfL6A)
+- [It's Okay To Be Smart](https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw)
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
 - [minutephysics](https://www.youtube.com/user/minutephysics)
+- [New Mind](https://www.youtube.com/channel/UC5_Y-BKzq1uW_2rexWkUzlA)
+- [PBS Eons](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA)
 - [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g)
 - [Physics Girl](https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA)
 - [SciShow](https://www.youtube.com/user/scishow)
 - [SciShow Kids](https://www.youtube.com/user/scishowkids)
 - [SciShow Psych](https://www.youtube.com/channel/UCUdettijNYvLAm4AixZv4RA)
 - [SciShow Space](https://www.youtube.com/user/scishowspace)
+- [The Cosmic Shambles Network](https://www.youtube.com/channel/UC6JQx_K7LKktuQXruCwgbFg)
+- [Up and Atom](https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw)
+- [Veritasium](https://www.youtube.com/user/1veritasium)
 
 ### Skateboarding
+- [Ben Degros](https://www.youtube.com/channel/UCP94Q0ypuPdhl-NupoAbcoQ)
 - [Braille Skateboarding](https://www.youtube.com/user/sprocker7)
 - [VHS Skate Tube](https://www.youtube.com/channel/UC6NVaVOokARfFe9EijxnBOA)
+- [VLSkate](https://www.youtube.com/channel/UC97VWzYLwjEIDfoXmdub-2Q)
 
 ### Spaceflight
 - [Blue Origin](https://www.youtube.com/channel/UCVxTHEKKLxNjGcvVaZindlg)
