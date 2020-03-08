@@ -29,7 +29,7 @@
 - [Corey Schafer: Pandas Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 - [freeCodeCamp.org: Data Science](https://www.youtube.com/playlist?list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1)
 - [Propagate Knowledge](https://www.youtube.com/channel/UC_7XEmvCsDO2Oo2iqDSqAdw)
-- [TEDx: Data Science](https://www.youtube.com/user/TEDxTalks/search?query=data+science) [The Vintage Space](https://www.youtube.com/channel/UCw95T_TgbGHhTml4xZ9yIqg)
+- [TEDx: Data Science](https://www.youtube.com/user/TEDxTalks/search?query=data+science)
 
 ### Engineering
 - [Machine Thinking](https://www.youtube.com/channel/UCfsznjef2zGJnrCRQBXqo6Q)
@@ -114,3 +114,4 @@
 - [SpaceX](https://www.youtube.com/user/spacexchannel)
 - [TMRO](https://www.youtube.com/user/TMRO)
 - [VideoFromSpace](https://www.youtube.com/channel/UCVTomc35agH1SM6kCKzwW_g)
+- [The Vintage Space](https://www.youtube.com/channel/UCw95T_TgbGHhTml4xZ9yIqg)
