@@ -1,69 +1,26 @@
 # Educational Content
+
 - [Videos](#videos)
-  - [Aviation](#aviation)
-  - [Cycling](#cycling)
-  - [Data Science](#data-science)
-  - [Do It Yourself](#do-it-yourself)
-  - [Economics](#economics)
   - [Engineering](#engineering)
+    - [Aviation](#aviation)
+    - [Do It Yourself](#do-it-yourself)
+    - [Spaceflight](#spaceflight)
   - [History](#history)
-  - [Linguistics](#linguistics)
-  - [Mathematics](#mathematics)
-  - [Music](#music)
+  - [Hobbies](#hobbies)
+    - [Cycling](#cycling)
+    - [Skateboarding](#skateboarding)
+    - [Music](#music)
   - [Programming](#programming)
+    - [Data Science](#data-science)
     - [The Python Programming Language](#the-python-programming-language)
   - [Science](#science)
-  - [Skateboarding](#skateboarding)
-  - [Spaceflight](#spaceflight)
+    - [Economics](#economics)
+    - [Linguistics](#linguistics)
+    - [Mathematics](#mathematics)
+
+---
 
 ## Videos
-
-### Aviation
-- [Angle of Attack](https://www.youtube.com/user/AoA001)
-- [Backcountry Pilot](https://www.youtube.com/user/BackcountryPilotOrg)
-- [Cory Robin](https://www.youtube.com/user/flycory)
-- [FlightChops](https://www.youtube.com/user/FlightChops)
-- [Jason Sneed](https://www.youtube.com/channel/UCfpW6H8wYpyQxNaFsGJj6tQ)
-- [Mike Patey](https://www.youtube.com/channel/UCSvdee86uThqIrloZjWwNVg)
-- [Scott Palmer](https://www.youtube.com/channel/UCrH40DJh4LHiFceeFsZllmg)
-- [Trent Palmer](https://www.youtube.com/user/boredentertainment88)
-- [The Finer Points](https://www.youtube.com/user/OnTheFlightLine)
-
-### Cycling
-- [Backyard Trail Builds](https://www.youtube.com/channel/UC1iGpIm2g0D8lZvhtqetHmg)
-- [Bike Magazine](https://www.youtube.com/user/TheBikemag)
-- [Bike Radar](https://www.youtube.com/user/bikeradar)
-- [Danny MacAskill](https://www.youtube.com/channel/UC9kOkY1nYc0uADWRiRH64Rw)
-- [GCN: Global Cycling Network](https://www.youtube.com/user/globalcyclingnetwork)
-- [GMBN: Global Mountain Bike Network](https://www.youtube.com/user/globalmtb)
-- [Pinkbike](https://www.youtube.com/channel/UC2GIHZpQiJy-8286f4lj_cg)
-- [Seth's Bike Hacks](https://www.youtube.com/channel/UCu8YylsPiu9XfaQC74Hr_Gw)
-- [Skill with Phil](https://www.youtube.com/channel/UC0QuCui5pNF9k9fiNXkqn_w)
-- [TheUselessTrials](https://www.youtube.com/channel/UCEi9yL4vhQlLafWRsAgAr3w)
-
-### Data Science
-- [365 Data Science](https://www.youtube.com/c/365DataScience)
-- [Corey Schafer: Pandas Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
-- [freeCodeCamp.org: Data Science](https://www.youtube.com/playlist?list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1)
-- [Propagate Knowledge](https://www.youtube.com/channel/UC_7XEmvCsDO2Oo2iqDSqAdw)
-- [TEDx: Data Science](https://www.youtube.com/user/TEDxTalks/search?query=data+science)
-
-### Do It Yourself
-- [A Concord Carpenter](https://www.youtube.com/channel/UCO1ZM4DsONdAWTQdX8o49QA)
-- [Anne of All Trades](https://www.youtube.com/user/allaboutanne18)
-- [April Wilkerson](https://www.youtube.com/user/AprilWilkersonDIY)
-- [Crafted Workshop](https://www.youtube.com/user/craftedmagazine)
-- [DIY Creators](https://www.youtube.com/channel/UChKlSK39lLg8eZHIX0iVzLA)
-- [Matt Risinger](https://www.youtube.com/user/MattRisinger)
-- [Matthew Cremona](https://www.youtube.com/channel/UCDpL0v-Ifie7u05lbfO3zJQ)
-- [Steve Ramsey - Woodworking for Mere Mortals](https://www.youtube.com/user/stevinmarin)
-- [StewMac](https://www.youtube.com/user/stewartmacdonald)
-- [The Wood Whisperer](https://www.youtube.com/user/TheWoodWhisperer)
-- [This Old House](https://www.youtube.com/user/thisoldhouse)
-
-### Economics
-- [The Economist](https://www.youtube.com/channel/UC0p5jTq6Xx_DosDFxVXnWaQ)
-- [Two Cents](https://www.youtube.com/channel/UCL8w_A8p8P1HWI3k6PR5Z6w)
 
 ### Engineering
 - [Machine Thinking](https://www.youtube.com/channel/UCfsznjef2zGJnrCRQBXqo6Q)
@@ -76,6 +33,50 @@
 - [Real Engineering](https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg)
 - [Tom Stanton](https://www.youtube.com/channel/UC67gfx2Fg7K2NSHqoENVgwA)
 
+#### Aviation
+- [Angle of Attack](https://www.youtube.com/user/AoA001)
+- [Backcountry Pilot](https://www.youtube.com/user/BackcountryPilotOrg)
+- [Cory Robin](https://www.youtube.com/user/flycory)
+- [FlightChops](https://www.youtube.com/user/FlightChops)
+- [Jason Sneed](https://www.youtube.com/channel/UCfpW6H8wYpyQxNaFsGJj6tQ)
+- [Mike Patey](https://www.youtube.com/channel/UCSvdee86uThqIrloZjWwNVg)
+- [Scott Palmer](https://www.youtube.com/channel/UCrH40DJh4LHiFceeFsZllmg)
+- [Trent Palmer](https://www.youtube.com/user/boredentertainment88)
+- [The Finer Points](https://www.youtube.com/user/OnTheFlightLine)
+
+#### Do It Yourself
+- [A Concord Carpenter](https://www.youtube.com/channel/UCO1ZM4DsONdAWTQdX8o49QA)
+- [Anne of All Trades](https://www.youtube.com/user/allaboutanne18)
+- [April Wilkerson](https://www.youtube.com/user/AprilWilkersonDIY)
+- [Crafted Workshop](https://www.youtube.com/user/craftedmagazine)
+- [DIY Creators](https://www.youtube.com/channel/UChKlSK39lLg8eZHIX0iVzLA)
+- [Matt Risinger](https://www.youtube.com/user/MattRisinger)
+- [Matthew Cremona](https://www.youtube.com/channel/UCDpL0v-Ifie7u05lbfO3zJQ)
+- [Steve Ramsey - Woodworking for Mere Mortals](https://www.youtube.com/user/stevinmarin)
+- [StewMac](https://www.youtube.com/user/stewartmacdonald)
+- [The Wood Whisperer](https://www.youtube.com/user/TheWoodWhisperer)
+- [This Old House](https://www.youtube.com/user/thisoldhouse)
+
+#### Spaceflight
+- [Blue Origin](https://www.youtube.com/channel/UCVxTHEKKLxNjGcvVaZindlg)
+- [BPS.space](https://www.youtube.com/channel/UCILl8ozWuxnFYXIe2svjHhg)
+- [Cosmic Perspective](https://www.youtube.com/channel/UCh3jrub_0od3EFoUtiIG4jQ)
+- [Curious Elephant](https://www.youtube.com/channel/UCZUlf2TKB8vATuo5-s1N-5Q)
+- [Everyday Astronaut](https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q)
+- [European Space Agency (ESA)](https://www.youtube.com/channel/UCIBaDdAbGlFDeS33shmlD0A)
+- [I Need More Space](https://www.youtube.com/channel/UCLr2Dn-wAtO8jxrj8MZ58cg)
+- [kNews.space](https://www.youtube.com/channel/UCftDFpWyR_87FXi82g7oZ-Q)
+- [NASA](https://www.youtube.com/user/NASAtelevision)
+- [Primal Space](https://www.youtube.com/channel/UClZbmi9JzfnB2CEb0fG8iew)
+- [Rocket Lab](https://www.youtube.com/user/RocketLabNZ)
+- [Scott Manley](https://www.youtube.com/channel/UCxzC4EngIsMrPmbm6Nxvb-A)
+- [SpaceX](https://www.youtube.com/user/spacexchannel)
+- [TMRO](https://www.youtube.com/user/TMRO)
+- [VideoFromSpace](https://www.youtube.com/channel/UCVTomc35agH1SM6kCKzwW_g)
+- [The Vintage Space](https://www.youtube.com/channel/UCw95T_TgbGHhTml4xZ9yIqg)
+
+---
+
 ### History
 - [CGP Grey](https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w)
 - [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg)
@@ -85,35 +86,23 @@
 - [The History Guy](https://www.youtube.com/channel/UC4sEmXUuWIFlxRIFBRV6VXQ)
 - [VisualPolitik EN](https://www.youtube.com/channel/UCT3v6vL2H5HK4loLMc8pmCw)
 
-### Linguistics
-- [Alliterative](https://www.youtube.com/user/Alliterative)
-- [Elar Archive](https://www.youtube.com/user/ELARarchive)
-- [Endangered Language Alliance](https://www.youtube.com/user/elalliance)
-- [Enduring Voices](https://www.youtube.com/user/EnduringVoices)
-- [Fingtam Languages](https://www.youtube.com/channel/UCDqVCYtJ5ezoRBP94ltrDwg)
-- [Indigenous Language Institute](https://www.youtube.com/user/ILINative)
-- [Langfocus](https://www.youtube.com/channel/UCNhX3WQEkraW3VHPyup8jkQ)
-- [The Language Conservancy](https://www.youtube.com/user/LanguageConservancy)
-- [The Language Index](https://www.youtube.com/user/languageindex)
-- [The Ling Space](https://www.youtube.com/user/thelingspace)
-- [Ling Vids](https://www.youtube.com/user/lingvids)
-- [Lingthusiasm](https://www.youtube.com/channel/UCy2qzzv5E9SNTpa90CqfkZA)
-- [Linguistic Society of America](https://www.youtube.com/channel/UCkixQuErotOHf4r8mawp9NQ)
-- [MIT Linguistics](https://www.youtube.com/user/MITLINGUISTICS)
-- [NativLang](https://www.youtube.com/user/NativLang)
-- [The Virtual Linguistics Campus](https://www.youtube.com/user/LinguisticsMarburg)
-- [WikiTongues](https://www.youtube.com/user/WikiTongues)
+---
 
-### Mathematics
-- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
-- [Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg)
-- [Numberphile](https://www.youtube.com/user/numberphile)
-- [PBS Infinite Series](https://www.youtube.com/channel/UCs4aHmggTfFrpkPcWSaBN9g)
-- [standupmaths](https://www.youtube.com/user/standupmaths)
-- [Tipping Point Math](https://www.youtube.com/user/TippingPointMath)
-- [Euler's Identity](https://www.youtube.com/watch?v=sKtloBAuP74)
+### Hobbies
 
-### Music
+#### Cycling
+- [Backyard Trail Builds](https://www.youtube.com/channel/UC1iGpIm2g0D8lZvhtqetHmg)
+- [Bike Magazine](https://www.youtube.com/user/TheBikemag)
+- [Bike Radar](https://www.youtube.com/user/bikeradar)
+- [Danny MacAskill](https://www.youtube.com/channel/UC9kOkY1nYc0uADWRiRH64Rw)
+- [GCN: Global Cycling Network](https://www.youtube.com/user/globalcyclingnetwork)
+- [GMBN: Global Mountain Bike Network](https://www.youtube.com/user/globalmtb)
+- [Pinkbike](https://www.youtube.com/channel/UC2GIHZpQiJy-8286f4lj_cg)
+- [Seth's Bike Hacks](https://www.youtube.com/channel/UCu8YylsPiu9XfaQC74Hr_Gw)
+- [Skill with Phil](https://www.youtube.com/channel/UC0QuCui5pNF9k9fiNXkqn_w)
+- [TheUselessTrials](https://www.youtube.com/channel/UCEi9yL4vhQlLafWRsAgAr3w)
+
+#### Music
 - [Aimee Nolte Music](https://www.youtube.com/channel/UCZIB_p5AgVVdxgkYWHeUy-Q)
 - [Composerily - Music Theory The Basics](https://youtu.be/1oL4VPyBlYw)
 - [Learn music theory in half an hour](https://youtu.be/rgaTLrZGlk0)
@@ -127,11 +116,26 @@
 - [Scott's Bass Lessons on YouTube](https://www.youtube.com/channel/UCWTj3vCqkQIsrTGSm4kM34g)
 - [Yale Music Theory Course](https://www.youtube.com/playlist?list=PL9LXrs9vCXK56qtyK4qcqwHrbf0em_81r)
 
+#### Skateboarding
+- [Ben Degros](https://www.youtube.com/channel/UCP94Q0ypuPdhl-NupoAbcoQ)
+- [Braille Skateboarding](https://www.youtube.com/user/sprocker7)
+- [VHS Skate Tube](https://www.youtube.com/channel/UC6NVaVOokARfFe9EijxnBOA)
+- [VLSkate](https://www.youtube.com/channel/UC97VWzYLwjEIDfoXmdub-2Q)
+
+---
+
 ### Programming
 - [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [GoogleDeveloperDay](https://www.youtube.com/channel/UCwPuf8AroS2fpl83oqsfC6A)
 - [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
 - [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
+
+#### Data Science
+- [365 Data Science](https://www.youtube.com/c/365DataScience)
+- [Corey Schafer: Pandas Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
+- [freeCodeCamp.org: Data Science](https://www.youtube.com/playlist?list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1)
+- [Propagate Knowledge](https://www.youtube.com/channel/UC_7XEmvCsDO2Oo2iqDSqAdw)
+- [TEDx: Data Science](https://www.youtube.com/user/TEDxTalks/search?query=data+science)
 
 #### The Python Programming Language
 - [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
@@ -139,6 +143,8 @@
 - [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 - [The Mighty Dictionary](https://www.youtube.com/watch?v=C4Kc8xzcA68)
 - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
+
+---
 
 ### Science
 - [iBiology](https://www.youtube.com/channel/UCsvqEZBO-kNmwuDBbKbfL6A)
@@ -157,26 +163,34 @@
 - [Up and Atom](https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw)
 - [Veritasium](https://www.youtube.com/user/1veritasium)
 
-### Skateboarding
-- [Ben Degros](https://www.youtube.com/channel/UCP94Q0ypuPdhl-NupoAbcoQ)
-- [Braille Skateboarding](https://www.youtube.com/user/sprocker7)
-- [VHS Skate Tube](https://www.youtube.com/channel/UC6NVaVOokARfFe9EijxnBOA)
-- [VLSkate](https://www.youtube.com/channel/UC97VWzYLwjEIDfoXmdub-2Q)
+#### Economics
+- [The Economist](https://www.youtube.com/channel/UC0p5jTq6Xx_DosDFxVXnWaQ)
+- [Two Cents](https://www.youtube.com/channel/UCL8w_A8p8P1HWI3k6PR5Z6w)
 
-### Spaceflight
-- [Blue Origin](https://www.youtube.com/channel/UCVxTHEKKLxNjGcvVaZindlg)
-- [BPS.space](https://www.youtube.com/channel/UCILl8ozWuxnFYXIe2svjHhg)
-- [Cosmic Perspective](https://www.youtube.com/channel/UCh3jrub_0od3EFoUtiIG4jQ)
-- [Curious Elephant](https://www.youtube.com/channel/UCZUlf2TKB8vATuo5-s1N-5Q)
-- [Everyday Astronaut](https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q)
-- [European Space Agency (ESA)](https://www.youtube.com/channel/UCIBaDdAbGlFDeS33shmlD0A)
-- [I Need More Space](https://www.youtube.com/channel/UCLr2Dn-wAtO8jxrj8MZ58cg)
-- [kNews.space](https://www.youtube.com/channel/UCftDFpWyR_87FXi82g7oZ-Q)
-- [NASA](https://www.youtube.com/user/NASAtelevision)
-- [Primal Space](https://www.youtube.com/channel/UClZbmi9JzfnB2CEb0fG8iew)
-- [Rocket Lab](https://www.youtube.com/user/RocketLabNZ)
-- [Scott Manley](https://www.youtube.com/channel/UCxzC4EngIsMrPmbm6Nxvb-A)
-- [SpaceX](https://www.youtube.com/user/spacexchannel)
-- [TMRO](https://www.youtube.com/user/TMRO)
-- [VideoFromSpace](https://www.youtube.com/channel/UCVTomc35agH1SM6kCKzwW_g)
-- [The Vintage Space](https://www.youtube.com/channel/UCw95T_TgbGHhTml4xZ9yIqg)
+#### Linguistics
+- [Alliterative](https://www.youtube.com/user/Alliterative)
+- [Elar Archive](https://www.youtube.com/user/ELARarchive)
+- [Endangered Language Alliance](https://www.youtube.com/user/elalliance)
+- [Enduring Voices](https://www.youtube.com/user/EnduringVoices)
+- [Fingtam Languages](https://www.youtube.com/channel/UCDqVCYtJ5ezoRBP94ltrDwg)
+- [Indigenous Language Institute](https://www.youtube.com/user/ILINative)
+- [Langfocus](https://www.youtube.com/channel/UCNhX3WQEkraW3VHPyup8jkQ)
+- [The Language Conservancy](https://www.youtube.com/user/LanguageConservancy)
+- [The Language Index](https://www.youtube.com/user/languageindex)
+- [The Ling Space](https://www.youtube.com/user/thelingspace)
+- [Ling Vids](https://www.youtube.com/user/lingvids)
+- [Lingthusiasm](https://www.youtube.com/channel/UCy2qzzv5E9SNTpa90CqfkZA)
+- [Linguistic Society of America](https://www.youtube.com/channel/UCkixQuErotOHf4r8mawp9NQ)
+- [MIT Linguistics](https://www.youtube.com/user/MITLINGUISTICS)
+- [NativLang](https://www.youtube.com/user/NativLang)
+- [The Virtual Linguistics Campus](https://www.youtube.com/user/LinguisticsMarburg)
+- [WikiTongues](https://www.youtube.com/user/WikiTongues)
+
+#### Mathematics
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+- [Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg)
+- [Numberphile](https://www.youtube.com/user/numberphile)
+- [PBS Infinite Series](https://www.youtube.com/channel/UCs4aHmggTfFrpkPcWSaBN9g)
+- [standupmaths](https://www.youtube.com/user/standupmaths)
+- [Tipping Point Math](https://www.youtube.com/user/TippingPointMath)
+- [Euler's Identity](https://www.youtube.com/watch?v=sKtloBAuP74)
