@@ -7,8 +7,8 @@
   - [Linguistics](#linguistics)
   - [Mathematics](#mathematics)
   - [Music](#music)
-  - [Science](#science)
   - [The Python Programming Language](#the-python-programming-language)
+  - [Science](#science)
   - [Spaceflight](#spaceflight)
 
 ## Videos
