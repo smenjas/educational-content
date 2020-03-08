@@ -7,7 +7,7 @@
   - [Linguistics](#linguistics)
   - [Mathematics](#mathematics)
   - [Music](#music)
-  - [Physics](#physics)
+  - [Science](#science)
   - [The Python Programming Language](#the-python-programming-language)
   - [Spaceflight](#spaceflight)
 
