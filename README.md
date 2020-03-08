@@ -99,7 +99,7 @@
 - [GMBN: Global Mountain Bike Network](https://www.youtube.com/user/globalmtb)
 - [Pinkbike](https://www.youtube.com/channel/UC2GIHZpQiJy-8286f4lj_cg)
 - [Seth's Bike Hacks](https://www.youtube.com/channel/UCu8YylsPiu9XfaQC74Hr_Gw)
-- [Skill with Phil](https://www.youtube.com/channel/UC0QuCui5pNF9k9fiNXkqn_w)
+- [Skills with Phil](https://www.youtube.com/channel/UC0QuCui5pNF9k9fiNXkqn_w)
 - [TheUselessTrials](https://www.youtube.com/channel/UCEi9yL4vhQlLafWRsAgAr3w)
 
 #### Music
