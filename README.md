@@ -2,10 +2,12 @@
 - [Videos](#videos)
   - [Aviation](#aviation)
   - [Data Science](#data-science)
+  - [Engineering](#engineering)
   - [History](#history)
   - [Linguistics](#linguistics)
   - [Mathematics](#mathematics)
   - [Music](#music)
+  - [Physics](#physics)
   - [The Python Programming Language](#the-python-programming-language)
   - [Spaceflight](#spaceflight)
 
@@ -21,13 +23,22 @@
 - [Scott Palmer](https://www.youtube.com/channel/UCrH40DJh4LHiFceeFsZllmg)
 - [Trent Palmer](https://www.youtube.com/user/boredentertainment88)
 - [The Finer Points](https://www.youtube.com/user/OnTheFlightLine)
- 
+
 ### Data Science
 - [365 Data Science](https://www.youtube.com/c/365DataScience)
 - [Corey Schafer: Pandas Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 - [freeCodeCamp.org: Data Science](https://www.youtube.com/playlist?list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1)
 - [Propagate Knowledge](https://www.youtube.com/channel/UC_7XEmvCsDO2Oo2iqDSqAdw)
 - [TEDx: Data Science](https://www.youtube.com/user/TEDxTalks/search?query=data+science) [The Vintage Space](https://www.youtube.com/channel/UCw95T_TgbGHhTml4xZ9yIqg)
+
+### Engineering
+- [Machine Thinking](https://www.youtube.com/channel/UCfsznjef2zGJnrCRQBXqo6Q)
+- [MIT Mechanical Engineering](https://www.youtube.com/channel/UCVXMaD9Gez-O1XKM8tuuzkA)
+- [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
+- [MIT School of Architecture & Planning](https://www.youtube.com/channel/UCgbvegDSq3uxWUrlllbvhLw)
+- [MIT School of Engineering](https://www.youtube.com/channel/UCx-Pk4CGqEb0FO5A6RyRNxA)
+- [Practical Engineering](https://www.youtube.com/channel/UCMOqf8ab-42UUQIdVoKwjlQ)
+- [Real Engineering](https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg)
 
 ### History
 - [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg)
@@ -64,7 +75,7 @@
 - [Tipping Point Math](https://www.youtube.com/user/TippingPointMath)
 - [Euler's Identity](https://www.youtube.com/watch?v=sKtloBAuP74)
 
-## Music
+### Music
 - [Composerily - Music Theory The Basics](https://youtu.be/1oL4VPyBlYw)
 - [Learn music theory in half an hour](https://youtu.be/rgaTLrZGlk0)
 - [The Circle of Fifths made clear](https://www.youtube.com/watch?v=_UxzDjU3-hM)
@@ -74,11 +85,18 @@
 - [Scott's Bass Lessons on YouTube](https://www.youtube.com/channel/UCWTj3vCqkQIsrTGSm4kM34g)
 - [Yale Music Theory Course](https://www.youtube.com/playlist?list=PL9LXrs9vCXK56qtyK4qcqwHrbf0em_81r)
 
-## The Python Programming Language
+### The Python Programming Language
 - [Socratica](https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q)
 - [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 - [The Mighty Dictionary](https://www.youtube.com/watch?v=C4Kc8xzcA68)
 - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
+
+### Science
+- [minutephysics](https://www.youtube.com/user/minutephysics)
+- [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g)
+- [Physics Girl](https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA)
+- [SciShow](https://www.youtube.com/user/scishow)
+- [SciShow Space](https://www.youtube.com/user/scishowspace)
 
 ### Spaceflight
 - [Blue Origin](https://www.youtube.com/channel/UCVxTHEKKLxNjGcvVaZindlg)
