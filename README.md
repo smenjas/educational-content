@@ -23,6 +23,7 @@
 ---
 
 ## Sources
+- [Feedly](https://feedly.com/): Google Reader replacement
 - [Google Books](https://books.google.com/): all the books, scanned
 - [Google Patents](https://patents.google.com/)
 - [Internet Archive](https://archive.org/)
