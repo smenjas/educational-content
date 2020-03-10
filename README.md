@@ -23,13 +23,16 @@
 ---
 
 ## Sources
+- [Brilliant](https://brilliant.org/): learn to think
 - [Feedly](https://feedly.com/): Google Reader replacement
 - [Google Books](https://books.google.com/): all the books, scanned
 - [Google Patents](https://patents.google.com/)
 - [Internet Archive](https://archive.org/)
 - [Librivox](https://librivox.org/): free, public domain audiobooks
+- [MasterClass](https://www.masterclass.com/): learn from the best
 - [Project Gutenberg](https://www.gutenberg.org/)
 - [ScienceDirect](https://www.sciencedirect.com/)
+- [Skillshare](https://www.skillshare.com/): explore your creativity
 - [TimeTree](http://www.timetree.org/): the timescale of life
 - [Wikidata](https://www.wikidata.org/): free knowledge base
 - [Wikipedia](https://en.wikipedia.org/): free-content encyclopedia
