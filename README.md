@@ -1,6 +1,7 @@
 # Educational Content
 
 - [Sources](#sources)
+  - [News](#news)
 - [Videos](#videos)
   - [Engineering](#engineering)
     - [Aviation](#aviation)
@@ -22,12 +23,9 @@
 ---
 
 ## Sources
-- [Ars Technica](https://arstechnica.com/): nerd news
-- [Classics in the History of Psychology](https://psychclassics.yorku.ca/)
-- [Fred Smitha](http://www.fsmitha.com/): macrohistory, world history
 - [Google Books](https://books.google.com/): all the books, scanned
 - [Google Patents](https://patents.google.com/)
-- [Hyperhistory Online](https://www.hyperhistory.com/)
+- [Internet Archive](https://archive.org/)
 - [Librivox](https://librivox.org/): free, public domain audiobooks
 - [Project Gutenberg](https://www.gutenberg.org/)
 - [ScienceDirect](https://www.sciencedirect.com/)
@@ -37,6 +35,11 @@
 - [Wikisource](https://wikisource.org/): free-content library
 - [Wikispecies](https://species.wikimedia.org/): directory of species
 - [Wikiversity](https://en.wikiversity.org/): free learning materials & activities
+
+### News
+- [Ars Technica](https://arstechnica.com/)
+- [MIT Technology Review](https://www.technologyreview.com/)
+- [Scientific American](https://www.scientificamerican.com/)
 
 ## Videos
 
@@ -78,21 +81,11 @@
 
 #### Spaceflight
 - [Blue Origin](https://www.youtube.com/channel/UCVxTHEKKLxNjGcvVaZindlg)
-- [BPS.space](https://www.youtube.com/channel/UCILl8ozWuxnFYXIe2svjHhg)
-- [Cosmic Perspective](https://www.youtube.com/channel/UCh3jrub_0od3EFoUtiIG4jQ)
 - [Curious Elephant](https://www.youtube.com/channel/UCZUlf2TKB8vATuo5-s1N-5Q)
 - [Everyday Astronaut](https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q)
-- [European Space Agency (ESA)](https://www.youtube.com/channel/UCIBaDdAbGlFDeS33shmlD0A)
-- [I Need More Space](https://www.youtube.com/channel/UCLr2Dn-wAtO8jxrj8MZ58cg)
-- [kNews.space](https://www.youtube.com/channel/UCftDFpWyR_87FXi82g7oZ-Q)
 - [NASA](https://www.youtube.com/user/NASAtelevision)
-- [Primal Space](https://www.youtube.com/channel/UClZbmi9JzfnB2CEb0fG8iew)
-- [Rocket Lab](https://www.youtube.com/user/RocketLabNZ)
 - [Scott Manley](https://www.youtube.com/channel/UCxzC4EngIsMrPmbm6Nxvb-A)
 - [SpaceX](https://www.youtube.com/user/spacexchannel)
-- [TMRO](https://www.youtube.com/user/TMRO)
-- [VideoFromSpace](https://www.youtube.com/channel/UCVTomc35agH1SM6kCKzwW_g)
-- [The Vintage Space](https://www.youtube.com/channel/UCw95T_TgbGHhTml4xZ9yIqg)
 
 ---
 
