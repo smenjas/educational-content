@@ -23,6 +23,7 @@
 ---
 
 ## Sources
+When in doubt, ask [Wikipedia](https://en.wikipedia.org/).
 - [Brilliant](https://brilliant.org/): learn to think
 - [Feedly](https://feedly.com/): Google Reader replacement
 - [Google Books](https://books.google.com/): all the books, scanned
