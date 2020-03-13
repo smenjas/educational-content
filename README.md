@@ -78,7 +78,6 @@ When in doubt, ask [Wikipedia](https://en.wikipedia.org/).
 - [DIY Creators](https://www.youtube.com/channel/UChKlSK39lLg8eZHIX0iVzLA)
 - [Matt Risinger](https://www.youtube.com/user/MattRisinger)
 - [Matthew Cremona](https://www.youtube.com/channel/UCDpL0v-Ifie7u05lbfO3zJQ)
-- [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ)
 - [Steve Ramsey - Woodworking for Mere Mortals](https://www.youtube.com/user/stevinmarin)
 - [StewMac](https://www.youtube.com/user/stewartmacdonald)
 - [The Wood Whisperer](https://www.youtube.com/user/TheWoodWhisperer)
