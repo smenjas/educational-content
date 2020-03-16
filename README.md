@@ -82,6 +82,7 @@ For spaceflight:
 - [MIT School of Engineering](https://www.youtube.com/channel/UCx-Pk4CGqEb0FO5A6RyRNxA)
 - [Practical Engineering](https://www.youtube.com/channel/UCMOqf8ab-42UUQIdVoKwjlQ)
 - [Real Engineering](https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg)
+- [Sketchup](https://www.youtube.com/results?search_query=sketchup)
 - [Tom Stanton](https://www.youtube.com/channel/UC67gfx2Fg7K2NSHqoENVgwA)
 
 #### Aviation
