@@ -1,5 +1,6 @@
 # Educational Content
 
+- [Recommendations](#recommendations)
 - [Sources](#sources)
   - [News](#news)
 - [Videos](#videos)
@@ -22,12 +23,36 @@
 
 ---
 
+## Recommendations
+When in doubt, try [Wikipedia](https://en.wikipedia.org/).
+
+For history, mythology, and video game design:
+  - [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg)
+
+For engineering & do it yourself (DIY)::
+  - [Machine Thinking](https://www.youtube.com/channel/UCfsznjef2zGJnrCRQBXqo6Q)
+  - [Mike Patey](https://www.youtube.com/channel/UCSvdee86uThqIrloZjWwNVg)
+  - [StewMac](https://www.youtube.com/user/stewartmacdonald)
+
+For linguistics:
+  - [NativLang](https://www.youtube.com/user/NativLang)
+
+For science:
+  - [Kurzgesagt – In a Nutshell](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
+  - [SciShow](https://www.youtube.com/user/scishow)
+
+For spaceflight:
+  - [Everyday Astronaut](https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q)
+  - [Scott Manley](https://www.youtube.com/channel/UCxzC4EngIsMrPmbm6Nxvb-A)
+
+---
+
 ## Sources
-When in doubt, ask [Wikipedia](https://en.wikipedia.org/).
 - [Brilliant](https://brilliant.org/): learn to think
 - [Feedly](https://feedly.com/): Google Reader replacement
 - [Google Books](https://books.google.com/): all the books, scanned
 - [Google Patents](https://patents.google.com/)
+- [Google Scholar](https://scholar.google.com/)
 - [Internet Archive](https://archive.org/)
 - [Librivox](https://librivox.org/): free, public domain audiobooks
 - [MasterClass](https://www.masterclass.com/): learn from the best
