@@ -206,6 +206,7 @@ For spaceflight:
 - [Veritasium](https://www.youtube.com/user/1veritasium)
 
 #### Economics
+- [Economics Explained](https://www.youtube.com/channel/UCZ4AMrDcNrfy3X6nsU8-rPg)
 - [The Economist](https://www.youtube.com/channel/UC0p5jTq6Xx_DosDFxVXnWaQ)
 - [Two Cents](https://www.youtube.com/channel/UCL8w_A8p8P1HWI3k6PR5Z6w)
 
