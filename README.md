@@ -202,6 +202,7 @@ For spaceflight:
 - [SciShow Psych](https://www.youtube.com/channel/UCUdettijNYvLAm4AixZv4RA)
 - [SciShow Space](https://www.youtube.com/user/scishowspace)
 - [The Cosmic Shambles Network](https://www.youtube.com/channel/UC6JQx_K7LKktuQXruCwgbFg)
+- [TierZoo](https://www.youtube.com/channel/UCHsRtomD4twRf5WVHHk-cMw)
 - [Up and Atom](https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw)
 - [Veritasium](https://www.youtube.com/user/1veritasium)
 
