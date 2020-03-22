@@ -74,6 +74,7 @@ For spaceflight:
 ## Videos
 
 ### Engineering
+- [City Beautiful](https://www.youtube.com/channel/UCGc8ZVCsrR3dAuhvUbkbToQ)
 - [Machine Thinking](https://www.youtube.com/channel/UCfsznjef2zGJnrCRQBXqo6Q)
 - [MIT CSAIL (Computer Science & Artificial Intelligence Laboratory)](https://www.youtube.com/channel/UCBpxspUNl1Th33XbugiHJzw)
 - [MIT Mechanical Engineering](https://www.youtube.com/channel/UCVXMaD9Gez-O1XKM8tuuzkA)
@@ -83,6 +84,7 @@ For spaceflight:
 - [Practical Engineering](https://www.youtube.com/channel/UCMOqf8ab-42UUQIdVoKwjlQ)
 - [Real Engineering](https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg)
 - [Sketchup](https://www.youtube.com/results?search_query=sketchup)
+- [The B1M](https://www.youtube.com/user/TheB1MLtd)
 - [Tom Stanton](https://www.youtube.com/channel/UC67gfx2Fg7K2NSHqoENVgwA)
 
 #### Aviation
