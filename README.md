@@ -149,6 +149,7 @@ For spaceflight:
 - [TheUselessTrials](https://www.youtube.com/channel/UCEi9yL4vhQlLafWRsAgAr3w)
 
 #### Music
+If you need equipment, see the [music starter kit](https://github.com/smenjas/music-notes/blob/master/music-starter-kit.md).
 - [Aimee Nolte Music](https://www.youtube.com/channel/UCZIB_p5AgVVdxgkYWHeUy-Q)
 - [Composerily - Music Theory The Basics](https://youtu.be/1oL4VPyBlYw)
 - [Learn music theory in half an hour](https://youtu.be/rgaTLrZGlk0)
