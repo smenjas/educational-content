@@ -83,6 +83,7 @@ For spaceflight:
 - [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
 - [MIT School of Architecture & Planning](https://www.youtube.com/channel/UCgbvegDSq3uxWUrlllbvhLw)
 - [MIT School of Engineering](https://www.youtube.com/channel/UCx-Pk4CGqEb0FO5A6RyRNxA)
+- [Munro Live](https://www.youtube.com/channel/UCj--iMtToRO_cGG_fpmP5XQ)
 - [Practical Engineering](https://www.youtube.com/channel/UCMOqf8ab-42UUQIdVoKwjlQ)
 - [Real Engineering](https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg)
 - [Sketchup](https://www.youtube.com/results?search_query=sketchup)
