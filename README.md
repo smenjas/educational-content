@@ -145,6 +145,7 @@ For spaceflight:
 - [Backyard Trail Builds](https://www.youtube.com/channel/UC1iGpIm2g0D8lZvhtqetHmg)
 - [Bike Magazine](https://www.youtube.com/user/TheBikemag)
 - [Bike Radar](https://www.youtube.com/user/bikeradar)
+- [Cycling Tips](https://www.youtube.com/user/wewallac)
 - [Danny MacAskill](https://www.youtube.com/channel/UC9kOkY1nYc0uADWRiRH64Rw)
 - [GCN: Global Cycling Network](https://www.youtube.com/user/globalcyclingnetwork)
 - [GMBN: Global Mountain Bike Network](https://www.youtube.com/user/globalmtb)
