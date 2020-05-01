@@ -134,6 +134,9 @@ For spaceflight:
 - [The History Guy](https://www.youtube.com/channel/UC4sEmXUuWIFlxRIFBRV6VXQ)
 - [VisualPolitik EN](https://www.youtube.com/channel/UCT3v6vL2H5HK4loLMc8pmCw)
 
+## Geography
+- [Atlas Pro](https://www.youtube.com/channel/UCz1oFxMrgrQ82-276UCOU9w)
+
 ---
 
 ### Hobbies
