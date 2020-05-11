@@ -49,8 +49,8 @@ you can forget the rest.
 
 #### Choosing a Strong Password You Can Remember
 A strong password has several bits of entropy, the more the merrier.  Think of
-five words that have nothing to do with each other except in your brain.  Say
-them silently to yourself, in your mind, many times.  Don't use existing song
+four or more words that have nothing to do with each other except in your
+brain.  Silently repeat them to yourself, many times.  Don't use existing song
 lyrics, or lines from a poem or a book or a blog.  Those can be guessed.
 
 For example: [**correct horse battery staple**](https://xkcd.com/936/ "xkcd: Password Strength")
@@ -150,8 +150,8 @@ it is for every other computer.  Pay attention to which manufacturers you
 trust.
 
 ## Consuming Data
-A computer lets you read, or listen, or watch all kinds of content. When you
-go to school, your teachers tell you what to read. At the library, you choose.
+A computer lets you read, or listen, or watch all kinds of content.  When you
+go to school, your teachers tell you what to read.  At the library, you choose.
 TV used to have only a few channels, and the broadcaster decided the schedule.
 Online video often lets you choose what to watch and when.
 
@@ -161,7 +161,7 @@ influenced by advertising or social media.
 It's tempting to let others choose what we read and watch, but there are
 options to exercise control.
 
-Many sites publish there content using an RSS or Atom feed. You can create
+Many sites publish there content using an RSS or Atom feed.  You can create
 your own news feed using a feed reader like [Feedly](https://feedly.com/).
 It's free.  Create an account and add some sites you enjoy.
 
