@@ -161,7 +161,7 @@ influenced by advertising or social media.
 It's tempting to let others choose what we read and watch, but there are
 options to exercise control.
 
-Many sites publish there content using an RSS or Atom feed.  You can create
+Many sites publish their content using an RSS or Atom feed.  You can create
 your own news feed using a feed reader like [Feedly](https://feedly.com/).
 It's free.  Create an account and add some sites you enjoy.
 
