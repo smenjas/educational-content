@@ -103,6 +103,16 @@ someone over the Internet or on the phone with personal information
 immediately.  You're allowed to take time to think about it, and call them back
 later if you decide to.
 
+#### Work vs. Personal
+You should separate your work and personal data as much as possible, to avoid
+legal complications and providing an example of professionalism.
+
+If you can, have separate devices for work and personal use, and use each
+exclusively for their intended purpose.
+
+If your devices belong to your employer, you should still avoid using your
+work email for personal communication.  Instead, use a personal email.
+
 ## Types of Computers
 There are many different kinds of computers that affect your every day life,
 some of which you will never see.
