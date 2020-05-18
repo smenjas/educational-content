@@ -58,6 +58,7 @@ For spaceflight:
 - [Librivox](https://librivox.org/): free, public domain audiobooks
 - [MasterClass](https://www.masterclass.com/): learn from the best
 - [Open Culture](http://www.openculture.com/)
+- [Open Textbook Library](https://open.umn.edu/opentextbooks)
 - [Project Gutenberg](https://www.gutenberg.org/)
 - [ScienceDirect](https://www.sciencedirect.com/)
 - [Skillshare](https://www.skillshare.com/): explore your creativity
