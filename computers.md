@@ -4,6 +4,7 @@
   - [Passwords](#passwords)
   - [Domain Names & Certificates](#domain-names--certificates)
   - [Personal Information](#personal-information)
+- [Consuming Data](#consuming-data)
 - [Types of Computers](#types-of-computers)
   - [Servers](#servers)
   - [Desktops & Laptops](#desktops--laptops)
@@ -11,7 +12,6 @@
   - [Tablets](#tablets)
   - [Voice Assistants](#voice-assistants)
   - [Embedded Computers](#embedded-computers)
-- [Consuming Data](#consuming-data)
 - [Programming](#programming)
 
 ## Security
@@ -113,6 +113,40 @@ As a side note, keep your emails brief, use the subject line, and keep different
 subjects in separate threads for easy reference later.  This shows people that
 you respect their valuable time.
 
+## Consuming Data
+A computer lets you read, or listen, or watch all kinds of content.  When you
+go to school, your teachers tell you what to read.  At the library, you choose.
+
+TV used to have only a few channels, and the broadcaster decided the schedule.
+Online video often lets you choose what to watch and when.
+
+When we choose to read or watch something, we often do so because we were
+influenced by advertising or social media.
+
+It's tempting to let others choose what we read and watch, but there are
+options to exercise control.
+
+Many sites publish their content using an RSS or Atom feed.  You can create
+your own news feed using a feed reader like [Feedly](https://feedly.com/).
+It's free.  Create an account and add some sites you enjoy.
+
+There are also many sites that allow you to discover the wealth of knowledge
+in the world:
+- [Internet Archive](https://archive.org/)
+- [Librivox](https://librivox.org/): free, public domain audiobooks
+- [Open Culture](http://www.openculture.com/)
+- [Project Gutenberg](https://www.gutenberg.org/)
+- [Wikipedia](https://en.wikipedia.org/): free-content encyclopedia
+- [YouTube](https://www.youtube.com/)
+
+[Pocket](https://getpocket.com/) lets you save articles to read later.
+
+Don't let yourself sit in rut.  Explore, learn, create, and share!
+
+## Programming
+If you want to know more about how computers work, check out [Free Code
+Camp](https://www.freecodecamp.org/).
+
 ## Types of Computers
 There are many different kinds of computers that affect your every day life,
 some of which you will never see.
@@ -158,34 +192,3 @@ Embedded computers are all over the place: in your car, fridge, stove, toaster,
 maybe even your lightbulbs.  Security is just as important for these devices as
 it is for every other computer.  Pay attention to which manufacturers you
 trust.
-
-## Consuming Data
-A computer lets you read, or listen, or watch all kinds of content.  When you
-go to school, your teachers tell you what to read.  At the library, you choose.
-TV used to have only a few channels, and the broadcaster decided the schedule.
-Online video often lets you choose what to watch and when.
-
-When we choose to read or watch something, we often do so because we were
-influenced by advertising or social media.
-
-It's tempting to let others choose what we read and watch, but there are
-options to exercise control.
-
-Many sites publish their content using an RSS or Atom feed.  You can create
-your own news feed using a feed reader like [Feedly](https://feedly.com/).
-It's free.  Create an account and add some sites you enjoy.
-
-There are also many sites that allow you to discover the wealth of knowledge
-in the world:
-- [Internet Archive](https://archive.org/)
-- [Librivox](https://librivox.org/): free, public domain audiobooks
-- [Open Culture](http://www.openculture.com/)
-- [Project Gutenberg](https://www.gutenberg.org/)
-- [Wikipedia](https://en.wikipedia.org/): free-content encyclopedia
-- [YouTube](https://www.youtube.com/)
-
-Don't let yourself sit in rut.  Explore, learn, create, and share!
-
-## Programming
-If you want to know more about how computers work, check out [Free Code
-Camp](https://www.freecodecamp.org/).
