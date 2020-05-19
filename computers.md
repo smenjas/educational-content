@@ -164,20 +164,26 @@ The cloud is just a bunch of datacenters.
 
 ### Desktops & Laptops
 Desktop and laptop computers (sometimes called workstations) are designed for a
-person to use directly.  They almost alwasy include a keyboard and a pointing
-device.  Sometimes they have touchscreens, but not always.  They use a
-graphical user interface (GUI) called WIMP: Windows, Icons, Mouse, Pointer.
+person to use directly.  They almost always include a keyboard and a pointing
+device.  Sometimes they have touchscreens, but not always.  They use style of
+graphical user interface (GUI) called WIMP (Windows, Icons, Menus, Pointer).
 They also have command line interfaces (CLIs), which are very useful for
 programming and interacting with servers.
 
 ### Smartphones
 Smartphones generally have touchscreens, and not many buttons.  They use
 graphical user interfaces (GUIs), and rarely include command line interfaces
-(CLIs).  They are generally much simpler to use that desktop and laptop
-computers, but in some ways they are less powerful.
+(CLIs).  They are generally much simpler to use than desktop and laptop
+computers, but in some ways they are less capable.
+
 
 ### Tablets
-Tablets are basically giant smartphones.
+Tablets are basically giant smartphones.  Although you can write computer
+programs on a smartphone or a tablet, most professional programmers
+prefer a desktop or a laptop.  Those who use tablets for programming usually
+connect to a remote server and run their programs there, which means you need
+to have a stable Internet connection to be productive.  On a desktop or a
+laptop, you can easily write programs without any Internet connection at all.
 
 ### Voice Assistants
 Voice assistants are included in most smartphones, and some desktops and
@@ -186,7 +192,8 @@ voice input, some of which don't have screens.  Alexa, the Google Assistant,
 and Siri are the most popular.
 
 Alexa and the Google Assistant record what they hear, and use those recordings
-to target advertising to you.  Siri does not.
+to target advertising to you.  Siri does not share information with
+advertisers.
 
 ### Embedded Computers
 Embedded computers are all over the place: in your car, fridge, stove, toaster,
