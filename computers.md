@@ -114,21 +114,14 @@ subjects in separate threads for easy reference later.  This shows people that
 you respect their valuable time.
 
 ## Consuming Data
-A computer lets you read, or listen, or watch all kinds of content.  When you
-go to school, your teachers tell you what to read.  At the library, you choose.
+You can choose what you read, or watch, or listen to.  It's easy to let others
+choose for you, but then you allow them to control the direction of your life.
+The difference between you now, and you in the past, is the people you've met
+and the books you've read.
 
-TV used to have only a few channels, and the broadcaster decided the schedule.
-Online video often lets you choose what to watch and when.
-
-When we choose to read or watch something, we often do so because we were
-influenced by advertising or social media.
-
-It's tempting to let others choose what we read and watch, but there are
-options to exercise control.
-
-Many sites publish their content using an RSS or Atom feed.  You can create
-your own news feed using a feed reader like [Feedly](https://feedly.com/).
-It's free.  Create an account and add some sites you enjoy.
+You can create your own news feed using a feed reader like
+[Feedly](https://feedly.com/).  It's free.  Create an account and add some
+sites you enjoy.
 
 There are also many sites that allow you to discover the wealth of knowledge
 in the world:
