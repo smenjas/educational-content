@@ -3,7 +3,7 @@
 - [Security](#security)
   - [Passwords](#passwords)
   - [Domain Names & Certificates](#domain-names--certificates)
-  - [Personal Data](#personal-data)
+  - [Personal Information](#personal-information)
 - [Types of Computers](#types-of-computers)
   - [Servers](#servers)
   - [Desktops & Laptops](#desktops--laptops)
