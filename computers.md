@@ -48,8 +48,8 @@ You will still need to remember the password to your password manager, but now
 you can forget the rest.
 
 #### Choosing a Strong Password You Can Remember
-A strong password has several bits of entropy, the more the merrier.  Think of
-four or more words that have nothing to do with each other except in your
+A strong password has several bits of entropy: the more the merrier.  Think of
+four or more words that have nothing to do with each other, except in your
 brain.  Silently repeat them to yourself, many times.  Don't use existing song
 lyrics, or lines from a poem or a book or a blog.  Those can be guessed.
 
@@ -67,51 +67,51 @@ If a web site is not encrypted, then people can see everything you see, and
 everything you send to the site.  Therefore you should always pay attention to
 whether the sites you visit are encrypted.  If the URL begins with http instead
 of https, then it's not encrypted.  Even if it does begin with https, it's only
-encrypted if the sites certificate is valid and up to date.  You will often see
-a padlock icon to indicate whether a web site is encrypted.  You can click on
-the padlock icon to see information about the web site's domain name and
+encrypted if the site's certificate is valid and up to date.  You will often
+see a padlock icon to indicate whether a web site is encrypted.  You can click
+on the padlock icon to see information about the web site's domain name and
 certificate.  If a certificate is no longer valid, some browsers will show an
 icon to indicate that.
 
 Even if the web site's domain belongs to the organization you think it does,
 and they have encrypted the web site, you should only interact with web sites
-that belong to organization you trust to engage n business with you honestly.
+that belong to organization you trust to engage in business with you honestly.
 If you do not trust someone, then a web site certificate should not override
 that.
 
-You definitely should not enter any passwords or personal information on sites
-that are not encrypted.  If you do, you are broadcasting that information for
-the world to see.
+You definitely should not enter any passwords, credit card numbers, or personal
+information on sites that are not encrypted.  If you do, you are broadcasting
+that information for the world to see.
 
-### Personal Data
-Personal data include names, phone numbers, email addresses, physical
-addresses, passwords, usernames, government ID numbers, student ID numbers, and
-many other things you might not think about, like GPS coordinates that are
-included in most of the photos people take.
+### Personal Information
+Personal information includes names, phone numbers, email addresses, physical
+addresses, passwords, usernames, account numbers, PIN numbers, government ID
+numbers, student ID numbers, and many other things you might not think about
+(like GPS coordinates that are included in most photos).
 
-You should be very careful with personal information.  Once you post it
-publicly you cannot prevent anyone from copying it.  Even if you think you did
-not share it publicly, you may have done so accidentally.  If you share a photo
-that shows some mail with your address on it, or you enter your address into an
-online store that's not encrypted, you have broadcast your address to the
-world.
+Be very careful with personal information!  Once you post it publicly you
+cannot prevent anyone from copying it.  Even if you think you did not share it
+publicly, you may have done so accidentally.  If you share a photo that shows
+some mail with your address on it, or you enter your address into an online
+store that's not encrypted, you have broadcast your address to the world.
 
-Try to avoid sharing any personal information, except when you are required to.
-Even then, you should feel free to pause, and think about whether you want to
-interact with someone.  Do not ever feel pressured to provide information to
-someone over the Internet or on the phone with personal information
-immediately.  You're allowed to take time to think about it, and call them back
-later if you decide to.
+Avoid sharing personal information, except when you must.  Even then, you
+should feel free to pause, and think about whether you want to interact with
+someone.  Do not ever feel pressured to provide information to someone over the
+Internet or on the phone with personal information immediately.  You're allowed
+to take time to think about it, and call them back later if you decide to.
 
 #### Work vs. Personal
 You should separate your work and personal data as much as possible, to avoid
-legal complications and providing an example of professionalism.
-
-If you can, have separate devices for work and personal use, and use each
-exclusively for their intended purpose.
+legal complications, and provide an example of professionalism.  If you can,
+use separate devices for work and personal use.
 
 If your devices belong to your employer, you should still avoid using your
 work email for personal communication.  Instead, use a personal email.
+
+As a side note, keep your emails brief, use the subject line, and keep different
+subjects in separate threads for easy reference later.  This shows people that
+you respect their valuable time.
 
 ## Types of Computers
 There are many different kinds of computers that affect your every day life,
@@ -184,7 +184,7 @@ in the world:
 - [Wikipedia](https://en.wikipedia.org/): free-content encyclopedia
 - [YouTube](https://www.youtube.com/)
 
-Don't let yourself sit in rut.  Explore, learn, create, and share.
+Don't let yourself sit in rut.  Explore, learn, create, and share!
 
 ## Programming
 If you want to know more about how computers work, check out [Free Code
