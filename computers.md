@@ -5,6 +5,7 @@
   - [Domain Names & Certificates](#domain-names--certificates)
   - [Personal Information](#personal-information)
 - [Consuming Data](#consuming-data)
+- [Programming](#programming)
 - [Types of Computers](#types-of-computers)
   - [Servers](#servers)
   - [Desktops & Laptops](#desktops--laptops)
@@ -12,7 +13,6 @@
   - [Tablets](#tablets)
   - [Voice Assistants](#voice-assistants)
   - [Embedded Computers](#embedded-computers)
-- [Programming](#programming)
 
 ## Security
 Imagine that when you open the front door of your home, you might find yourself
@@ -123,8 +123,7 @@ You can create your own news feed using a feed reader like
 [Feedly](https://feedly.com/).  It's free.  Create an account and add some
 sites you enjoy.
 
-There are also many sites that allow you to discover the wealth of knowledge
-in the world:
+These sites allow you to discover the wealth of knowledge in the world:
 - [Internet Archive](https://archive.org/)
 - [Librivox](https://librivox.org/): free, public domain audiobooks
 - [Open Culture](http://www.openculture.com/)
@@ -134,7 +133,15 @@ in the world:
 
 [Pocket](https://getpocket.com/) lets you save articles to read later.
 
-Don't let yourself sit in rut.  Explore, learn, create, and share!
+The worst lie told in school is that Wikipedia is an inaccurate source of
+information.  It is more accurate than the Encyclopedia Britannica.  It is a
+summary of the most influential books and publications in history, with
+references.  It is not just made up: people continuously check it for errors,
+and ruthlessly correct them.  You can try to vandalize it, but anyone can see
+what you did by looking at the page history, and your edits will be reverted if
+they're not factual.
+
+Don't let yourself sit in a rut.  Explore, learn, create, and share!
 
 ## Programming
 If you want to know more about how computers work, check out [Free Code
