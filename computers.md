@@ -133,13 +133,14 @@ These sites allow you to discover the wealth of knowledge in the world:
 
 [Pocket](https://getpocket.com/) lets you save articles to read later.
 
-The worst lie told in school is that Wikipedia is an inaccurate source of
-information.  It is more accurate than the Encyclopedia Britannica.  It is a
-summary of the most influential books and publications in history, with
-references.  It is not just made up: people continuously check it for errors,
-and ruthlessly correct them.  You can try to vandalize it, but anyone can see
-what you did by looking at the page history, and your edits will be reverted if
-they're not factual.
+The worst lie told in school is that Wikipedia is inaccurate.  It is [just as
+accurate as the Encyclopedia
+Britannica](https://www.nature.com/articles/438900a), and covers far more.
+Wikipedia is a summary of the most influential books and publications in
+history, with references.  It is not just made up: people continuously check it
+for errors, and ruthlessly correct them.  You can try to vandalize it, but
+anyone can see what you did by looking at the page history, and your edits will
+be reverted if they're not factual.
 
 Don't let yourself sit in a rut.  Explore, learn, create, and share!
 
