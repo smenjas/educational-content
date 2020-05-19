@@ -140,7 +140,10 @@ Wikipedia is a summary of the most influential books and publications in
 history, with references.  It is not just made up: people continuously check it
 for errors, and ruthlessly correct them.  You can try to vandalize it, but
 anyone can see what you did by looking at the page history, and your edits will
-be reverted if they're not factual.
+be reverted if they're not factual.  Use it like a map: it can show you the way
+to the best sources of information.  All maps have some inaccuracies, but they
+are still useful.  [The map is not the
+territory.](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)
 
 Don't let yourself sit in a rut.  Explore, learn, create, and share!
 
