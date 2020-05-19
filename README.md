@@ -9,6 +9,7 @@
     - [Do It Yourself](#do-it-yourself)
     - [Spaceflight](#spaceflight)
   - [History](#history)
+  - [Geography](#geography)
   - [Hobbies](#hobbies)
     - [Cycling](#cycling)
     - [Skateboarding](#skateboarding)
@@ -29,7 +30,7 @@ When in doubt, try [Wikipedia](https://en.wikipedia.org/).
 For history, mythology, and video game design:
   - [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg)
 
-For engineering & do it yourself (DIY)::
+For engineering:
   - [Machine Thinking](https://www.youtube.com/channel/UCfsznjef2zGJnrCRQBXqo6Q)
   - [Mike Patey](https://www.youtube.com/channel/UCSvdee86uThqIrloZjWwNVg)
   - [StewMac](https://www.youtube.com/user/stewartmacdonald)
@@ -135,7 +136,7 @@ For spaceflight:
 - [The History Guy](https://www.youtube.com/channel/UC4sEmXUuWIFlxRIFBRV6VXQ)
 - [VisualPolitik EN](https://www.youtube.com/channel/UCT3v6vL2H5HK4loLMc8pmCw)
 
-## Geography
+### Geography
 - [Atlas Pro](https://www.youtube.com/channel/UCz1oFxMrgrQ82-276UCOU9w)
 
 ---
