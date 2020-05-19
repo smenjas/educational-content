@@ -165,16 +165,16 @@ The cloud is just a bunch of datacenters.
 ### Desktops & Laptops
 Desktop and laptop computers (sometimes called workstations) are designed for a
 person to use directly.  They almost always include a keyboard and a pointing
-device.  Sometimes they have touchscreens, but not always.  They use style of
+device.  Sometimes they have touchscreens, but not always.  They use a style of
 graphical user interface (GUI) called WIMP (Windows, Icons, Menus, Pointer).
 They also have command line interfaces (CLIs), which are very useful for
 programming and interacting with servers.
 
 ### Smartphones
-Smartphones generally have touchscreens, and not many buttons.  They use
+Smartphones usually have touchscreens, and not many buttons.  They use
 graphical user interfaces (GUIs), and rarely include command line interfaces
-(CLIs).  They are generally much simpler to use than desktop and laptop
-computers, but in some ways they are less capable.
+(CLIs).  They are easier to use than desktop and laptop computers, but in some
+ways they are less capable.
 
 
 ### Tablets
@@ -183,13 +183,13 @@ programs on a smartphone or a tablet, most professional programmers
 prefer a desktop or a laptop.  Those who use tablets for programming usually
 connect to a remote server and run their programs there, which means you need
 to have a stable Internet connection to be productive.  On a desktop or a
-laptop, you can easily write programs without any Internet connection at all.
+laptop, you can easily write programs with intermittent Internet access.
 
 ### Voice Assistants
 Voice assistants are included in most smartphones, and some desktops and
-laptops.  There are also standalone devices designed to be use mostly with
-voice input, some of which don't have screens.  Alexa, the Google Assistant,
-and Siri are the most popular.
+laptops.  There are also standalone devices designed for voice input, some of
+which don't have screens.  Alexa, the Google Assistant, and Siri are the most
+popular.
 
 Alexa and the Google Assistant record what they hear, and use those recordings
 to target advertising to you.  Siri does not share information with
