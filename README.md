@@ -152,6 +152,7 @@ For spaceflight:
 - [GCN: Global Cycling Network](https://www.youtube.com/user/globalcyclingnetwork)
 - [GMBN: Global Mountain Bike Network](https://www.youtube.com/user/globalmtb)
 - [Hardtail Party](https://www.youtube.com/channel/UCwDvZTTIQ6Qz-xfZ-QXXuSw)
+- [Mountain Bike Rider](https://www.youtube.com/user/MBRmagazine)
 - [Pinkbike](https://www.youtube.com/channel/UC2GIHZpQiJy-8286f4lj_cg)
 - [Seth's Bike Hacks](https://www.youtube.com/channel/UCu8YylsPiu9XfaQC74Hr_Gw)
 - [Skills with Phil](https://www.youtube.com/channel/UC0QuCui5pNF9k9fiNXkqn_w)
