@@ -144,6 +144,7 @@ For spaceflight:
 ### Hobbies
 
 #### Cycling
+- [Ali Clarkson](https://www.youtube.com/user/Butterboo90)
 - [Backyard Trail Builds](https://www.youtube.com/channel/UC1iGpIm2g0D8lZvhtqetHmg)
 - [Bike Magazine](https://www.youtube.com/user/TheBikemag)
 - [Bike Radar](https://www.youtube.com/user/bikeradar)
