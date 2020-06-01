@@ -158,7 +158,6 @@ For spaceflight:
 - [Seth's Bike Hacks](https://www.youtube.com/channel/UCu8YylsPiu9XfaQC74Hr_Gw)
 - [Skills with Phil](https://www.youtube.com/channel/UC0QuCui5pNF9k9fiNXkqn_w)
 - [TheUselessTrials](https://www.youtube.com/channel/UCEi9yL4vhQlLafWRsAgAr3w)
-- [Cyclingabout](https://www.youtube.com/channel/UCGamtiY212YK76rDI4IhCGg)
 
 #### Music
 If you need equipment, see the [music starter kit](https://github.com/smenjas/music-notes/blob/master/music-starter-kit.md).
