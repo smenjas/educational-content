@@ -12,8 +12,9 @@
   - [Geography](#geography)
   - [Hobbies](#hobbies)
     - [Cycling](#cycling)
-    - [Skateboarding](#skateboarding)
     - [Music](#music)
+    - [Skateboarding](#skateboarding)
+    - [Video Production](#video-production)
   - [Programming](#programming)
     - [Data Science](#data-science)
     - [The Python Programming Language](#the-python-programming-language)
@@ -180,6 +181,27 @@ If you need equipment, see the [music starter kit](https://github.com/smenjas/mu
 - [Braille Skateboarding](https://www.youtube.com/user/sprocker7)
 - [VHS Skate Tube](https://www.youtube.com/channel/UC6NVaVOokARfFe9EijxnBOA)
 - [VLSkate](https://www.youtube.com/channel/UC97VWzYLwjEIDfoXmdub-2Q)
+
+#### Video Production
+- [Aputure](https://www.youtube.com/user/aputurephoto)
+- [CookeOpticsTV](https://www.youtube.com/channel/UC-Ya9gBlwOhRwtloTn1hvbA)
+- [CineFix](https://www.youtube.com/user/CineFix)
+- [Cinematography Database](https://www.youtube.com/user/cinematographydb)
+- [CinemaTyler](https://www.youtube.com/channel/UC7GV-3hrA9kDKrren0QMKMg)
+- [Every Frame a Painting](https://www.youtube.com/user/everyframeapainting)
+- [Felicia Smith](https://www.youtube.com/channel/UC0VID5nSIk6QDC65bHym7TQ)
+- [Filmmaker IQ](https://www.youtube.com/user/FilmmakerIQcom)
+- [Film Riot](https://www.youtube.com/user/filmriot)
+- [Gerald Undone](https://www.youtube.com/channel/UC09qASY4ixFS-KXIH6Nw0rg)
+- [in / development](https://www.youtube.com/channel/UCSotaL_26_zKl3nU7dybqmQ)
+- [Indy Mogul](https://www.youtube.com/user/indymogul)
+- [Kinetek](https://www.youtube.com/channel/UCNCiCp3PHpy_Jo-STmker-Q)
+- [Luke Seerveld / Meet the Gaffer](https://www.youtube.com/user/SeerveldMedia)
+- [Mark Bone](https://www.youtube.com/user/markandrewbone)
+- [Nerdwriter1](https://www.youtube.com/user/Nerdwriter1)
+- [Spenser Sakurai](https://www.youtube.com/user/Spensersakurai)
+- [Wandering DP](https://www.youtube.com/user/wanderingdp)
+- [wolfcrow](https://www.youtube.com/channel/UC7gBcKzHKc0oOR5-XiWdlFQ)
 
 ---
 
