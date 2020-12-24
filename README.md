@@ -40,7 +40,7 @@ For linguistics:
   - [NativLang](https://www.youtube.com/user/NativLang)
 
 For science:
-  - [Joe Scott](https://www.youtube.com/channel/UC-2YHgc363EdcusLIBbgxzg)
+  - [Mark Rober](https://www.youtube.com/user/onemeeeliondollars)
   - [Kurzgesagt – In a Nutshell](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
   - [SciShow](https://www.youtube.com/user/scishow)
 
@@ -233,6 +233,7 @@ If you need equipment, see the [music starter kit](https://github.com/smenjas/mu
 - [It's Okay To Be Smart](https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw)
 - [Joe Scott](https://www.youtube.com/channel/UC-2YHgc363EdcusLIBbgxzg)
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
+- [Mark Rober](https://www.youtube.com/user/onemeeeliondollars)
 - [minutephysics](https://www.youtube.com/user/minutephysics)
 - [New Mind](https://www.youtube.com/channel/UC5_Y-BKzq1uW_2rexWkUzlA)
 - [PBS Eons](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA)
