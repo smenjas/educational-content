@@ -244,6 +244,7 @@ If you need equipment, see the [music starter kit](https://github.com/smenjas/mu
 - [SciShow Psych](https://www.youtube.com/channel/UCUdettijNYvLAm4AixZv4RA)
 - [SciShow Space](https://www.youtube.com/user/scishowspace)
 - [The Cosmic Shambles Network](https://www.youtube.com/channel/UC6JQx_K7LKktuQXruCwgbFg)
+- [Tibees](https://www.youtube.com/channel/UC52kszkc08-acFOuogFl5jw)
 - [TierZoo](https://www.youtube.com/channel/UCHsRtomD4twRf5WVHHk-cMw)
 - [Up and Atom](https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw)
 - [Veritasium](https://www.youtube.com/user/1veritasium)
